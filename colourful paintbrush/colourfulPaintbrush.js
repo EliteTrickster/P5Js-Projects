@@ -21,7 +21,7 @@ function draw() {
   circle(mouseX,mouseY,randomSize);
 
   // preferably leave one of the values as 225... please
-  fill(R,G,225)
+  fill(R,225,B)
 
 }
 
